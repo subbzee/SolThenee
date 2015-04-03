@@ -1,0 +1,15 @@
+- the spelling bee web app will pronounce a word
+- A timer will start as soon as the pronunciation starts (or user clicks the 'Say New Word' button)
+- Once pronunciation has started the timer will continue till it hits the limit (preference setting - default is 10 secs)
+- The user can press the pronounce button as many times as he/she wants, while the timer is ticking
+- Once the timer expires. The correct spelling for the word is shown and the answer is marked incorrect
+- The user gets to try 10 words at a time (preference setting)
+- A score will be printed once 10 words are complete
+
+Advanced:
+- User should be able to bookmark difficult words
+- Typical mistakes should be highlighted 
+- Score tracker to keep track of scores
+- Level setting to choose difficulty level
+- Setting to not show answers once timer expires and only show it in the end
+- Setting to show usage in a sentence (button that user can press), root etc.
