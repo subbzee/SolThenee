@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head> <title> Chunkify Form </title> 
+        <script src="app.js"></script>
+</head>
+  <body>
+<div>
+  <form name="myform" id="input_form">
+  <input type="text" name="inputWord" id="input_text" value="nothing" />
+  <input type="submit" name="submit" id="submit" onsubmit="checkInputWord()" />
+</form>
+
+        <button class="large_button" id="speak_button" onclick="speakHandler()">Speak</button>
+        <button class="large_button" id="next_button" onclick="nextWordHandler()">Next Word</button>
+</div>
+</body>
+</html>
