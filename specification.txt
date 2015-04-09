@@ -13,3 +13,7 @@ Advanced:
 - Level setting to choose difficulty level
 - Setting to not show answers once timer expires and only show it in the end
 - Setting to show usage in a sentence (button that user can press), root etc.
+- Alternate App variation can include human-voice stored as mp3 (instead of TTS)
+
+Misc:
+- Chrome TTS appears to have best voice reproduction
