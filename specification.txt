@@ -7,6 +7,7 @@
 - A score will be printed once 10 words are complete
 
 Advanced:
+- Add Preferences to App for selecting Timer settings
 - User should be able to bookmark difficult words
 - Typical mistakes should be highlighted 
 - Score tracker to keep track of scores
